@@ -1,0 +1,1 @@
+{'conv_filters': 64, 'dense_units': 128}
