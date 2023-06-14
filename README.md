@@ -1,7 +1,7 @@
 # writer-identification
 ## WIX3001 Soft Computing: Assignment 2
 ### By Jasmine Chong & Janice Chong
-#### Writer Identifiaction Model Based On Handwriting
+#### Writer Identification Model Based On Handwriting
 
 Model V7 has the best accuracy (0.9278) as of writing.  
 
