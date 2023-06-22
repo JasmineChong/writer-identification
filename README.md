@@ -9,3 +9,6 @@ The important notebooks are
 - Resized-Image.ipynb
 - Writer-Identification-v7.ipynb
 - Writer-Prediction.ipynb
+
+The best saved model is
+- writerIdentifier_v7_model_ep15.h5
